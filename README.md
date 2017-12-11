@@ -1,5 +1,5 @@
 # 3D Photo Bombing
-- This app is current 3D features are in development and app has yet to be moved to a public github.
+- This app's current 3D features are in development and has yet to be moved to a public github.
 
 ## App Design and Vision
 
