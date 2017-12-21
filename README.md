@@ -18,8 +18,4 @@
 - Depth Data (Mask) - example
 # <img src="IMG_0006.jpg" width="170" height="300" />
 
-#### Example Movie
-
-[Sample video](3DPhotoBombing/renderedMovie.mp4)
-
-12/11/2017
+12/20/2017
