@@ -16,7 +16,7 @@
 # <img src="IMG_0006.jpg" width="170" height="300" />
 
 - Depth Data (Mask) - example
-# <img src="IMG_0007" width="170" height="300" />
+# <img src="IMG_0007.jpg" width="170" height="300" />
 
 #### Example Movie
 
