@@ -13,13 +13,13 @@
 # <img src="3DPhotoBomb.png" width="170" height="300" />
 
 - 3D Picture - example
-# <img src="IMG_0006.jpg" width="170" height="300" />
+# <img src="IMG_0007.jpg" width="170" height="300" />
 
 - Depth Data (Mask) - example
-# <img src="IMG_0007.jpg" width="170" height="300" />
+# <img src="IMG_0006.jpg" width="170" height="300" />
 
 #### Example Movie
 
-[![Sample video](renderedMovie.MP4)
+[Sample video](renderedMovie.MP4)
 
 12/11/2017
