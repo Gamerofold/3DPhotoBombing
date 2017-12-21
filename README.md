@@ -9,9 +9,12 @@
 
 [Bio](http://wampage.com/BobBio)
 
-- Main view
+#### Main view
 # <img src="3DPhotoBomb.png" width="170" height="300" />
 
+- Sample app movie output - renderedMovie.MP4
+
+#### Targeted 3D mask for animation
 - 3D Picture - example
 # <img src="IMG_0007.jpg" width="170" height="300" />
 
