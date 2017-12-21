@@ -20,6 +20,6 @@
 
 #### Example Movie
 
-[Sample video](renderedMovie.MP4)
+[Sample video](3DPhotoBombing/renderedMovie.mp4)
 
 12/11/2017
